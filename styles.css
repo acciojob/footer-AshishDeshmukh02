@@ -1,1 +1,5 @@
 /* your code here */
+.link-boxes,
+.media-icons {
+  display: flex;
+}
